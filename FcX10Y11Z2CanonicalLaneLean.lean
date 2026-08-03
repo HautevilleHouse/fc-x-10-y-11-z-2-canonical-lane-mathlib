@@ -1,0 +1,14 @@
+-- This module is the root of the FcX10Y11Z2CanonicalLaneLean Lean proof package.
+import FcX10Y11Z2CanonicalLaneLean.Basic
+import FcX10Y11Z2CanonicalLaneLean.SourcePackage
+import FcX10Y11Z2CanonicalLaneLean.SourceDependencies
+import FcX10Y11Z2CanonicalLaneLean.Formalization
+import FcX10Y11Z2CanonicalLaneLean.ReviewerBridge
+import FcX10Y11Z2CanonicalLaneLean.TheoremStatement
+import FcX10Y11Z2CanonicalLaneLean.MathlibObjects
+import FcX10Y11Z2CanonicalLaneLean.AdmissibleClass
+import FcX10Y11Z2CanonicalLaneLean.Projection
+import FcX10Y11Z2CanonicalLaneLean.BridgeLemmas
+import FcX10Y11Z2CanonicalLaneLean.GateLemmas
+import FcX10Y11Z2CanonicalLaneLean.FinalTheorem
+import FcX10Y11Z2CanonicalLaneLean.MathlibStatement
